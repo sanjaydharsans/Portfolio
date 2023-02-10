@@ -1,0 +1,60 @@
+{
+    
+    "experiences" : [
+        {
+            "company": "Sankalp Enviro",
+            "link": "/",
+            "title": "Database Head",
+            "duration": "Present",
+            "desc": [
+                "As the head of the database department, I manage all the data related to the organization.",
+                "The data will contain all the information related to the events conducted by the organization."
+            ]
+        }
+       
+    ],
+    "projects" : [
+        {
+            "title" : "Product Landing Page",
+            "image": "images/Product landing page.png",
+            "desc" : "Simple Product Landing page",
+            "skills": ["HTML","CSS"],
+            "github": "https://github.com/sanjaydharsans/Product-landing-page.git",
+            "link": "/"
+        },
+        {
+            "title" : "BMI-Calculator",
+            "image": "./BMI calculator.png",
+            "desc" : "User can calculate their body mass index.",
+            "skills": ["HTML","CSS","Javascript","ReactJs"],
+            "github": "https://github.com/sanjaydharsans/BMI-cal-reactjs.git",
+            "link": "/"
+        },
+        {
+            "title" : "Gallery",
+            "image": "./Photo gallery.png",
+            "desc" : "User will able to view images.",
+            "skills": ["HTML","CSS","Javascript","ReactJs"],
+            "github": "https://github.com/sanjaydharsans/Gallery-reactjs.git",
+            "link": "/"
+        },
+        {
+            "title" : "Basic Ecommerce site",
+            "image": "./Shopping site.png",
+            "desc" : "Shopping Platform",
+            "skills": ["HTML","CSS","Javascript","ReactJs"],
+            "github": "https://github.com/sanjaydharsans/shopping-react-.git",
+            "link": "/"
+        },
+        {
+            "title" : "Guess the word game",
+            "image": "/src/images/pygame.png",
+            "desc" : "Simple puzzle game",
+            "skills": ["Python"],
+            "github": "https://github.com/sanjaydharsans/Guess-the-word-game.git",
+            "link": "/"
+        }
+    ]
+
+
+}
